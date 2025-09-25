@@ -1,3 +1,4 @@
-git init // for initializing reposotory
+git init fur den start
 git add <files>
 git commit -m "your commit message"
+git reset --soft HEAD~1
